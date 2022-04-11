@@ -1,6 +1,9 @@
 👋 Hi, I’m @YUMAxim
+
 👀 I’m interested in Sutehage
+
 🌱 I’m currently learning TCP/IP
+
 💞️ I’m looking to collaborate on web
 
 <!---
